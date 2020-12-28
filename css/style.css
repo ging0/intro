@@ -363,6 +363,25 @@ header {
     color: #000;
 }
 
+.header-caption3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #787878;
+    line-height: 1.5;
+    text-align: center;
+    box-sizing: border-box;
+    min-height: 0;
+    min-width: 0;
+    font-weight: 300;
+    margin: 20px 0;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.section-about {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
 
 /* start slider */
 
